@@ -1,0 +1,28 @@
+# Ignorar todos los archivos en la carpeta Library (Unity)
+/Library/
+
+# Ignorar caché de paquetes de Unity
+/Library/PackageCache/
+
+# Ignorar todos los archivos de compilación
+/build/
+/bin/
+/obj/
+
+# Ignorar configuraciones de usuario en Unity
+/UserSettings/
+
+# Ignorar archivos de sistema específicos
+.DS_Store
+Thumbs.db
+
+# Ignorar todos los archivos que terminen en .log
+*.log
+
+# Ignorar archivos de configuración locales
+.env
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
