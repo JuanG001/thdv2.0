@@ -1,5 +1,8 @@
 # Ignorar todos los archivos en la carpeta Library (Unity)
-/Library/
+//Library/
+
+
+#estoy probando un cambio en en block de notas
 
 # Ignorar caché de paquetes de Unity
 /Library/PackageCache/
